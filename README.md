@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @cerrorism
 - 👀 I’m a software developer using Kotlin programming language. 
-- 🌱 I’m currently learning how to do game development via Unreal engine.
