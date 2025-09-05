@@ -43,10 +43,6 @@ I'm a software engineer who enjoys solving real-world problems with code and sha
 
 I believe in learning through hands-on experimentation, sharing knowledge openly, and that the best way to understand something is to build it yourself.
 
-## 📊 GitHub Stats
-
-![Zhengguang's GitHub stats](https://github-readme-stats.vercel.app/api?username=cerrorism&show_icons=true&theme=default&hide_border=true)
-
 ## 🌐 Connect With Me
 
 - 📖 **Blog**: [blog.cerrorism.com](https://blog.cerrorism.com)
